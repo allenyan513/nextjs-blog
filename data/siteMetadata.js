@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Ligang Yan',
   description: 'Software Engineer | Product Manager',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'light', // system, dark or light
   siteUrl: 'https://allenyan.ca',
   siteRepo: 'https://github.com/AllenYon/nextjs-blog',
   siteLogo: '/static/images/logo.png',
